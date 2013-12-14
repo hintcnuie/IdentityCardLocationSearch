@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>120101</key>
+	<string>天津市和平区</string>
+	<key>120102</key>
+	<string>天津市河东区</string>
+	<key>120103</key>
+	<string>天津市河西区</string>
+	<key>120104</key>
+	<string>天津市南开区</string>
+	<key>120105</key>
+	<string>天津市河北区</string>
+	<key>120106</key>
+	<string>天津市红桥区</string>
+	<key>120107</key>
+	<string>天津市塘沽区</string>
+	<key>120108</key>
+	<string>天津市汉沽区</string>
+	<key>120109</key>
+	<string>天津市大港区</string>
+	<key>120110</key>
+	<string>天津市东丽区</string>
+	<key>120111</key>
+	<string>天津市西青区</string>
+	<key>120112</key>
+	<string>天津市津南区</string>
+	<key>120113</key>
+	<string>天津市北辰区</string>
+	<key>120221</key>
+	<string>天津市宁河县</string>
+	<key>120222</key>
+	<string>天津市武清县</string>
+	<key>120223</key>
+	<string>天津市静海县</string>
+	<key>120224</key>
+	<string>天津市宝坻县</string>
+	<key>120225</key>
+	<string>天津市蓟县</string>
+</dict>
+</plist>

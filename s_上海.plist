@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>310101</key>
+	<string>上海市黄浦区</string>
+	<key>310102</key>
+	<string>上海市南市区</string>
+	<key>310103</key>
+	<string>上海市卢湾区</string>
+	<key>310104</key>
+	<string>上海市徐汇区</string>
+	<key>310105</key>
+	<string>上海市长宁区</string>
+	<key>310106</key>
+	<string>上海市静安区</string>
+	<key>310107</key>
+	<string>上海市普陀区</string>
+	<key>310108</key>
+	<string>上海市闸北区</string>
+	<key>310109</key>
+	<string>上海市虹口区</string>
+	<key>310110</key>
+	<string>上海市杨浦区</string>
+	<key>310112</key>
+	<string>上海市闵行区</string>
+	<key>310113</key>
+	<string>上海市宝山区</string>
+	<key>310114</key>
+	<string>上海市嘉定区</string>
+	<key>310115</key>
+	<string>上海市浦东新区</string>
+	<key>310116</key>
+	<string>上海市金山区</string>
+	<key>310117</key>
+	<string>上海市松江区</string>
+	<key>310226</key>
+	<string>上海市奉贤县</string>
+	<key>310229</key>
+	<string>上海市青浦县</string>
+	<key>310230</key>
+	<string>上海市崇明县</string>
+</dict>
+</plist>

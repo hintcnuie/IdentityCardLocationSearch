@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>110101</key>
+	<string>北京市东城区</string>
+	<key>110102</key>
+	<string>北京市西城区</string>
+	<key>110103</key>
+	<string>北京市崇文区</string>
+	<key>110104</key>
+	<string>北京市宣武区</string>
+	<key>110105</key>
+	<string>北京市朝阳区</string>
+	<key>110106</key>
+	<string>北京市丰台区</string>
+	<key>110107</key>
+	<string>北京市石景山区</string>
+	<key>110108</key>
+	<string>北京市海淀区</string>
+	<key>110109</key>
+	<string>北京市门头沟区</string>
+	<key>110110</key>
+	<string>北京市燕山区</string>
+	<key>110111</key>
+	<string>北京市房山区</string>
+	<key>110112</key>
+	<string>北京市通州区</string>
+	<key>110113</key>
+	<string>北京市顺义区</string>
+	<key>110114</key>
+	<string>北京市昌平区</string>
+	<key>110115</key>
+	<string>北京市大兴区</string>
+	<key>110116</key>
+	<string>北京市怀柔区</string>
+	<key>110117</key>
+	<string>北京市平谷区</string>
+	<key>110221</key>
+	<string>北京市昌平县</string>
+	<key>110222</key>
+	<string>北京市顺义县</string>
+	<key>110223</key>
+	<string>北京市通县</string>
+	<key>110224</key>
+	<string>北京市大兴县</string>
+	<key>110225</key>
+	<string>北京市房山县</string>
+	<key>110226</key>
+	<string>北京市平谷县</string>
+	<key>110227</key>
+	<string>北京市怀柔县</string>
+	<key>110228</key>
+	<string>北京市密云县</string>
+	<key>110229</key>
+	<string>北京市延庆县</string>
+</dict>
+</plist>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>460001</key>
+	<string>海南三亚市通什市</string>
+	<key>460002</key>
+	<string>海南三亚市琼海市</string>
+	<key>460003</key>
+	<string>海南三亚市儋州市</string>
+	<key>460004</key>
+	<string>海南三亚市琼山市</string>
+	<key>460005</key>
+	<string>海南三亚市文昌市</string>
+	<key>460006</key>
+	<string>海南三亚市万宁市</string>
+	<key>460007</key>
+	<string>海南三亚市东方市</string>
+	<key>460025</key>
+	<string>海南三亚市定安县</string>
+	<key>460026</key>
+	<string>海南三亚市屯昌县</string>
+	<key>460027</key>
+	<string>海南三亚市澄迈县</string>
+	<key>460028</key>
+	<string>海南三亚市临高县</string>
+	<key>460030</key>
+	<string>海南三亚市白沙黎族自治县</string>
+	<key>460031</key>
+	<string>海南三亚市昌江黎族自治县</string>
+	<key>460033</key>
+	<string>海南三亚市乐东黎族自治县</string>
+	<key>460034</key>
+	<string>海南三亚市陵水黎族自治县</string>
+	<key>460035</key>
+	<string>海南三亚市保亭黎族苗族自治县</string>
+	<key>460036</key>
+	<string>海南三亚市琼中黎族苗族自治县</string>
+	<key>460037</key>
+	<string>海南西沙群岛</string>
+	<key>460038</key>
+	<string>海南南沙群岛</string>
+	<key>460039</key>
+	<string>海南中沙群岛的岛礁及其海域</string>
+	<key>460101</key>
+	<string>海南海口市市辖区</string>
+	<key>460102</key>
+	<string>海南海口市振东区</string>
+	<key>460103</key>
+	<string>海南海口市新华区</string>
+	<key>460104</key>
+	<string>海南海口市秀英区</string>
+	<key>460201</key>
+	<string>海南三亚市市辖区</string>
+</dict>
+</plist>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>640101</key>
+	<string>宁夏回族自治区银川市市辖区</string>
+	<key>640102</key>
+	<string>宁夏回族自治区银川市城区</string>
+	<key>640103</key>
+	<string>宁夏回族自治区银川市新城区</string>
+	<key>640111</key>
+	<string>宁夏回族自治区银川市郊区</string>
+	<key>640121</key>
+	<string>宁夏回族自治区银川市永宁县</string>
+	<key>640122</key>
+	<string>宁夏回族自治区银川市贺兰县</string>
+	<key>640201</key>
+	<string>宁夏回族自治区石嘴山市市辖区</string>
+	<key>640202</key>
+	<string>宁夏回族自治区石嘴山市大武口区</string>
+	<key>640203</key>
+	<string>宁夏回族自治区石嘴山市石嘴山区</string>
+	<key>640204</key>
+	<string>宁夏回族自治区石嘴山市石炭井区</string>
+	<key>640221</key>
+	<string>宁夏回族自治区石嘴山市平罗县</string>
+	<key>640222</key>
+	<string>宁夏回族自治区石嘴山市陶乐县</string>
+	<key>640223</key>
+	<string>宁夏回族自治区石嘴山市惠农县</string>
+	<key>640301</key>
+	<string>宁夏回族自治区吴忠市市辖区</string>
+	<key>640302</key>
+	<string>宁夏回族自治区吴忠市利通区</string>
+	<key>640321</key>
+	<string>宁夏回族自治区吴忠市中卫县</string>
+	<key>640322</key>
+	<string>宁夏回族自治区吴忠市中宁县</string>
+	<key>640323</key>
+	<string>宁夏回族自治区吴忠市盐池县</string>
+	<key>640324</key>
+	<string>宁夏回族自治区吴忠市同心县</string>
+	<key>640381</key>
+	<string>宁夏回族自治区吴忠市青铜峡市</string>
+	<key>640382</key>
+	<string>宁夏回族自治区吴忠市灵武市</string>
+	<key>642221</key>
+	<string>宁夏回族自治区固原地区固原县</string>
+	<key>642222</key>
+	<string>宁夏回族自治区固原地区海原县</string>
+	<key>642223</key>
+	<string>宁夏回族自治区固原地区西吉县</string>
+	<key>642224</key>
+	<string>宁夏回族自治区固原地区隆德县</string>
+	<key>642225</key>
+	<string>宁夏回族自治区固原地区泾源县</string>
+	<key>642226</key>
+	<string>宁夏回族自治区固原地区彭阳县</string>
+</dict>
+</plist>
